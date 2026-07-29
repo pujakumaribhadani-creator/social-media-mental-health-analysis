@@ -162,11 +162,16 @@ The cleaned SQL Server dataset was imported into **Power BI** for visualization.
 - KPI Development
 - Business Analysis
 
-### Social Media Usage Insights
-![Social Media Usage Insights](screenshots/screen%20nd%20menatlPic1.png)
+## Dashboard Preview
 
-### Mental Health & Demographic Analysis
-![Mental Health & Demographic Analysis](screenshots/screen%20nd%20menatlPic2.png)
+### Page 1 – Insurance Risk & Claims Overview
+
+![Page 1](screen nd menatlPic1.png)
+
+### Page 2 – Detailed Analysis
+
+![Page 2](screen nd menatlPic1.png)
+
 
 
 
@@ -180,6 +185,6 @@ The analysis provides insights into social media usage, screen time, sleep patte
 
 ## Author
 
-**Pooja Kumari**
+**Puja Kumari**
 
 Aspiring Data Analyst | SQL | Power BI | DAX | Advanced Excel | Data Visualization
