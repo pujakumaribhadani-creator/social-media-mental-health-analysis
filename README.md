@@ -164,14 +164,13 @@ The cleaned SQL Server dataset was imported into **Power BI** for visualization.
 
 ## Dashboard Preview
 
-### Page 1 – Insurance Risk & Claims Overview
+### Page 1 – Social Media Usage Insights
 
-![Page 1](screen nd menatlPic1.png)
+![Page 1](screen%20nd%20menatlPic1.png)
 
-### Page 2 – Detailed Analysis
+### Page 2 – Mental Health & Demographic Analysis
 
-![Page 2](screen nd menatlPic1.png)
-
+![Page 2](screen%20nd%20menatlPic2.png)
 
 
 
