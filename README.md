@@ -162,16 +162,17 @@ The cleaned SQL Server dataset was imported into **Power BI** for visualization.
 - KPI Development
 - Business Analysis
 
----
+## 📸 Dashboard Preview
 
-## Project Files
 
-- `SQL_Project.sql` – SQL queries for data cleaning and analysis
-- `Social_Media_Mental_Health_Dashboard.pbix` – Power BI dashboard
-- `README.md` – Project documentation
-- `screenshots/` – Dashboard screenshots
 
----
+### Social Media Usage Insights
+![Social Media Usage Insights](screen nd menatlPic1.png)
+
+### Mental Health & Demographic Analysis
+![Mental Health Analysis](screen nd menatlPic2.png)
+
+
 
 ## Conclusion
 
