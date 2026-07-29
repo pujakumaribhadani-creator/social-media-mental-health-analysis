@@ -162,15 +162,11 @@ The cleaned SQL Server dataset was imported into **Power BI** for visualization.
 - KPI Development
 - Business Analysis
 
-## 📸 Dashboard Preview
-
-
-
 ### Social Media Usage Insights
-![Social Media Usage Insights](screen nd menatlPic1.png)
+![Social Media Usage Insights](screenshots/screen%20nd%20menatlPic1.png)
 
 ### Mental Health & Demographic Analysis
-![Mental Health Analysis](screen nd menatlPic2.png)
+![Mental Health & Demographic Analysis](screenshots/screen%20nd%20menatlPic2.png)
 
 
 
